@@ -6,7 +6,8 @@ a [KairosDB](https://github.com/proofpoint/kairosdb) database instance.
 
 ## CAVEAT
 
-This has not been used in production yet! Please be careful!
+This has not been used in production and I'm not sure if I understand
+KairosDB correctly yet. So please be careful!
 
 ## Installation
 
